@@ -1,0 +1,170 @@
+*{
+	font-family: "Alegreya Sans", sans-serif;
+	font-size: 20px;
+}
+header{
+	font-family: "Oswald", sans-serif;
+	font-size: 70px;
+	font-style: oblique;
+	font-weight: 700;
+	color: rgb(105, 22, 4);
+	text-align: center;
+	text-decoration: underline;
+	text-shadow:  4px 10px 15px #000;
+	text-transform: uppercase;
+	letter-spacing: 20px;
+}
+h1{font-size: 40px;
+	font-style: italic;
+	font-weight: 700;
+	color: rgb(67, 15, 3);	
+	text-align: center;	
+	margin: 30px 400px 30px 400px;
+}
+.garrypotter{
+	background-color: rgb(225, 177, 177);
+	padding: 20px 40px 20px 40px;
+	margin: 10px 400px 10px 400px;
+	text-align: center;
+}
+.imgbook{
+	position:relative;
+	text-align:center;
+	width: 640px;
+	margin: 10px 400px 10px 400px;
+}
+.imgbook img{
+	max-width:100%;
+	width: auto;
+	display:block;
+	margin: auto;
+}
+.ul{
+	background-color: rgb(225, 177, 177);
+	padding-left: 250px;
+	margin: 10px 400px 10px 400px;	
+}
+.ul h2{
+	background-color: rgb(159, 77, 77);
+	margin-left: -250px;
+	text-align: center;
+	font-size: 40px;
+}
+.about{
+	background-color: rgb(225, 177, 177);
+	padding: 20px 40px 20px 40px;
+	margin: 10px 400px 10px 400px;
+}
+.about h2{
+	background-color: rgb(159, 77, 77);
+	margin: -20px -40px -20px -40px;
+	text-align: center;
+	font-size: 40px;
+}
+.abouttext{
+margin-top: 20px;
+}
+.girlimg{
+	position:relative;
+	text-align:center;
+	width: 640px;
+	margin: 10px 400px 10px 400px;
+}
+.girlimg img{
+	max-width:100%;
+	width: auto;
+	display:block;
+	margin: auto;
+}
+.inform{
+	background-color: rgb(225, 177, 177);
+	padding: 20px;
+	margin: 10px 400px 10px 400px;
+}
+.inform h2{
+	background-color: rgb(159, 77, 77);
+	margin: -20px;
+	text-align: center;
+	font-size: 40px;
+}
+.informul{
+	margin-top: 20px;
+}
+.imgpaper{
+	position:relative;
+	text-align:center;
+	width: 640px;
+	margin: 10px 400px 10px 400px;
+}
+.imgpaper img{
+	max-width:100%;
+	width: auto;
+	display:block;
+	margin: auto;
+}
+.dgerela{
+	background-color: rgb(225, 177, 177);
+	padding: 20px 40px 20px 40px;
+	margin: 10px 400px 10px 400px;
+}
+.dgerela h2{
+	background-color: rgb(159, 77, 77);
+	margin: -20px -40px -20px -40px;
+	text-align: center;
+	font-size: 40px;
+}
+.dgerelatext{
+	margin-top: 20px;
+}
+.biografiya{
+	background-color: rgb(225, 177, 177);
+	padding: 20px 40px 20px 40px;
+	margin: 10px 400px 10px 400px;
+}
+.biografiya h2{
+	background-color: rgb(159, 77, 77);
+	margin: -20px -40px -20px -40px;
+	text-align: center;
+	font-size: 40px;
+}
+.biotext{
+	margin-top: 40px;
+}
+.biotext h3{
+	text-align: center;
+	color: rgb(51, 4, 4);
+	font-size: 20px;
+	font-weight: 500;
+	text-decoration: underline;
+}
+.interesting{
+	background-color: rgb(225, 177, 177);
+	padding: 20px 40px 20px 40px;
+	margin: 10px 400px 10px 400px;
+	text-align: center;
+}
+.magicwandimg{
+	position:relative;
+	text-align:center;
+	width: 640px;
+	margin: 10px 400px 10px 400px;
+}
+.magicwandimg img{
+	max-width:100%;
+	width: auto;
+	display:block;
+	margin: auto;
+}
+footer{
+	background-color: rgb(225, 177, 177);
+	padding: 20px 40px 20px 40px;
+	margin: 10px 400px 10px 400px;
+	text-align: center;
+	font-size: 15px;
+	font-family: "poppins";
+}
+footer a{
+	font-size: 40px;
+	color: rgb(222, 29, 29);
+	font-family: "poppins";
+}

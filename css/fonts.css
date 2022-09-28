@@ -1,0 +1,66 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;0,900;1,300&display=swap');
+
+@font-face {
+	font-family: "poppins";
+	src: url("../fonts/poppins/Poppinsblack.woff2") format("woff2"), url("../fonts/poppins/Poppinsblack.woff") format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face {
+	font-family: "poppins";
+	src: url("../fonts/poppins/Poppinsblackitalic.woff2") format("woff2"), url("../fonts/poppins/Poppinsblackitalic.woff") format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face {
+	font-family: "poppins";
+	src: url("../fonts/poppins/Poppinsbold.woff2") format("woff2"), url("../fonts/poppins/Poppinsbold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: "poppins";
+	src: url("../fonts/poppins/Poppinsbolditalic.woff2") format("woff2"), url("../fonts/poppins/Poppinsbolditalic.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: "poppins";
+	src: url("../fonts/poppins/Poppinsregular.woff2") format("woff2"), url("../fonts/poppins/Poppinsregular.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Oswald";
+	src: url("../fonts/oswald/Oswaldbold.woff2") format("woff2"), url("../fonts/oswald/Oswaldbold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Oswald";
+	src: url("../fonts/oswald/Oswaldlightitalic.woff2") format("woff2"), url("../fonts/oswald/Oswaldlightitalic.woff") format("woff");
+	font-display: swap;
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Oswald";
+	src: url("../fonts/oswald/Oswaldmedium.woff2") format("woff2"), url("../fonts/oswald/Oswaldmedium.woff") format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Oswald";
+	src: url("../fonts/oswald/Oswaldregular.woff2") format("woff2"), url("../fonts/oswald/Oswaldregular.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
